@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Chris Cho 👋
+
+### Dedicate to Tech itself, not noise.
+
+Maintainer of [Hippocrat](https://github.com/hippocrat-dao)
+
+Developing secure wallet & data economy on Bitcoin &nbsp;<img src=https://s2.coinmarketcap.com/static/img/coins/200x200/1.png width=18 />
 
 <!--
 **ChrisCho-H/ChrisCho-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
